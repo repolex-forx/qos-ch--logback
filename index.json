@@ -1,0 +1,11 @@
+{
+  "org": "qos-ch",
+  "repo": "logback",
+  "versions": [
+    {
+      "commit": "5761779e16b2f2b29ea04f8900970d29cf57dd95",
+      "tag": "",
+      "parsed_at": "2026-11-09T22:03:09.723331+00:00"
+    }
+  ]
+}
