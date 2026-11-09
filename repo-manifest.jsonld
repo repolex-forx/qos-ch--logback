@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/qos-ch/logback/commit/5761779e16b2f2b29ea04f8900970d29cf57dd95",
       "git:hexsha": "5761779e16b2f2b29ea04f8900970d29cf57dd95",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/qos-ch/logback/commit/597b272384cc02f711dbdf6895763e256eddaa76",
